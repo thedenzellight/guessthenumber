@@ -1,6 +1,5 @@
 import random
 import time
-from turtle import right
 
 print("Guess a number game!")
 time.sleep(1)
